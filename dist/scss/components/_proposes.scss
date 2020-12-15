@@ -1,0 +1,11 @@
+.adjust-proposes {
+  display: flex;
+  justify-content: center;
+  .proposes {
+    max-width: 700px;
+    color: black;
+    .iQuestion {
+      color: red;
+    }
+  }
+}
